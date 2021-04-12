@@ -5,4 +5,4 @@
 * Hoan Tran (1079602)
 
 ## Usage
-Go onto the project1.ipynb file and run all the cells.
+Go onto the project1.ipynb file and run all the cells in the notebook to recreate the results.
